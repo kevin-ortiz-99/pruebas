@@ -40,7 +40,8 @@
  
  
  
- // Seleccionar el canvas
+ <script>
+// Seleccionar el canvas
 var ctx = document.getElementById('myChart').getContext('2d');
 
 // Datos del gráfico
@@ -93,4 +94,6 @@ var myChart = new Chart(ctx, {
     data: data,
     options: options
 });
+
+</script>
 
