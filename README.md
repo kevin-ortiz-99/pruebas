@@ -8,3 +8,6 @@
     </div>
   </div>
 </div>
+
+
+https://coolors.co/palettes/popular/gray
